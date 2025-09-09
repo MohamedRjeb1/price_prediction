@@ -1,0 +1,8 @@
+.env/
+__pycache__/
+*.pyc
+DATA/housing.csv
+.venv/
+
+
+
